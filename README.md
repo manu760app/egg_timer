@@ -6,7 +6,7 @@ You can start and stop the timer, choose different cooking intervals..
 
 Features:
 
-* Add notitications to the eggtimer app.
+* Add notitications to the eggtimer app, by using FCM.
 * Use channels and importance for the app notifications. 
 * Customize and style the notifications.
 
