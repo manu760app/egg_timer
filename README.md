@@ -10,4 +10,6 @@ Features:
 * Use channels and importance for the app notifications. 
 * Customize and style the notifications.
 
+## Screenshots
 
+![Screenshot1](screen_1)
