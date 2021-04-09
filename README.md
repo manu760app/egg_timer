@@ -12,4 +12,4 @@ Features:
 
 ## Screenshots
 
-![Screenshot1](screen_1)
+![Screenshot1](screen_1.jpg)
